@@ -1,0 +1,95 @@
+<span>chris</span>test 
+<span>chris</span>hello 
+<span>Chris2</span>another 
+<span>art</span>testing one two three 
+<span>css-tricks</span>this is kinda interesting Yup 
+<span>otnemem7</span>what is this for? 
+<span>juarezpaf</span>Nice! 
+<span>css-tricks</span>dunno, but it generates a text file from the server 
+<span>css-tricks</span>every now and then I get a delay 
+<span>css-tricks</span><a href="http://css-tricks.com/examples/Chat2/room/chatroom-html.txt" target="_blank">http://css-tricks.com/examples/Chat2/room/chatroom-html.txt</a> 
+<span>David</span>ALL by your self? 
+<span>David</span>Great... 
+<span>David</span>Now I&#039;m lonely 
+<span>David</span>... 
+<span>David</span>so alone 
+<span>David</span>so very alone 
+<span>David</span>:&#039;( 
+<span>David</span>yay! 
+<span>Kostas</span>testing 
+<span>David</span>I&#039;m not alone anymore 
+<span>user</span>;) 
+<span>user</span><img src='smiles/smile.gif'/> 
+<span>Kostas</span><img src='smiles/smile.gif'/> 
+<span>David</span>google.com 
+<span>David</span><a href="http://www.google.com" target="_blank">http://www.google.com</a> 
+<span>David</span>nice! 
+<span>asdfasdf</span>asdfasdf 
+<span>David</span>asdf;aldsf 
+<span>Kostas</span> test 
+<span>Kostas</span>test 
+<span>Kostas</span>blue 
+<span>Kostas</span>[b]bold[/b] 
+<span>test</span>yeah 
+<span>test</span>works great 
+<span>test</span>next post? 
+<span>frog</span>ribbit 
+<span>David</span>your mom goes to college! 
+<span>Kostas</span>{} 
+<span>Kostas</span>[ 
+<span>Kostas</span>[]         
+<span>David</span>yes... 
+<span>David</span>A little privacy please... 
+<span>Kostas</span><a href="http://css-tricks.com/examples/Chat2/room/chatroom-html.txt" target="_blank">http://css-tricks.com/examples/Chat2/room/chatroom-html.txt</a> 
+<span>Kostas</span>no privacy <img src='smiles/smile.gif'/> 
+<span>Kostas</span>&Atilde;&copy; 
+<span>&Oslash;&acute;&Oslash;&sect;&Oslash;&ordf; &Oslash;&sect;&Ugrave;„&Oslash;&sect;&Oslash;&micro;&Oslash;&macr;&Oslash;&sect;&Oslash;&plusmn;&Ugrave;&iexcl;&Ugrave;&iexcl;&Ugrave;&cent;</span>&Ugrave;…&Oslash;&plusmn;&Oslash;&shy;&Oslash;&uml;&Oslash;&sect; &Oslash;&uml;&Oslash;&sect;&Ugrave;„&Oslash;&not;&Ugrave;…&Ugrave;Š&Oslash;&sup1; 
+<span>meh</span>For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a> 
+<span>GLEIS45</span>test 
+<span>elyezer</span>do you use HTML5 doctype in production? 
+<span>meh</span>yes, I do 
+<span>meh</span>but only in the one project ATM 
+<span>elyezer</span>and the new tags do you use? 
+<span>elyezer</span>or only the doctype declaration? 
+<span>iRolfje</span>why only use doctype if you dont use the tags? 
+<span>tester</span>hi 
+<span>ryansmith</span>hi 
+<span>bogardus</span>Hi everyone! 
+<span>wow</span>uh.. 
+<span>johnnypea</span>   
+<span>johnnypea</span>  
+<span>johnnypea</span>  
+<span>johnnypea</span>  
+<span>johnnypea</span>  
+<span>johnnypea</span>hmmm I can send empty message when I insert the space  
+<span>aaa</span>see 
+<span>oio</span>qsdqsd 
+<span>oio</span>&#039;\ 
+<span>oio</span>&#039;\\{&#039;\\ 
+<span>something</span>&#039; or &#039;&#039; = &#039;&#039; -- do something now?! 
+<span>something</span>-78,942.74 
+<span>jack</span>test 
+<span>alert(&#039;xss&#039;);</span>a test
+<span>vic</span>lfdsl;sdf 
+<span>vic</span>testsfgdg 
+<span>vic</span>dsfg 
+<span>vic</span>sdf 
+<span>vic</span>sg 
+<span>vic</span>dfg s
+<span>vic</span>gf 
+<span>vic</span>gf s
+<span>vic</span>fd 
+<span>vic</span>gf sd
+<span>vic</span>sfd 
+<span>vic</span>sdf g
+<span>vic</span>fsd g
+<span>vic</span>fds 
+<span>bob</span>sad 
+<span>mordrin</span>test 
+<span>mordrin</span><img src='smiles/smile.gif'/> 
+<span>user</span>this is a test 
+<span>kout</span>.. 
+<span>Joshua</span>Hola 
+<span>Stian</span>hei 
+<span>ipad</span>I retail for $499, buy me ;) 
+<span>Chris</span>Oh, I plan to. 

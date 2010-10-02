@@ -1,0 +1,760 @@
+<span>chris</span>test 
+<span>chris</span>hello 
+<span>Chris2</span>another 
+<span>img</span>test 
+<span>ewr</span>Neah 
+<span>silver</span>hmm 
+<span>Chris Coyier</span>Check 
+<span>inspiringpixel</span>check 
+<span>brdave</span>yo 
+<span>Icraft</span>check 
+<span>dustintheweb</span>check 1 2 
+<span>hello</span>hay hay 
+<span>shay</span>test 
+<span>silver</span>uh oh 
+<span>chris</span>check 
+<span>inspiringpixel</span>looks cool 
+<span>inspiringpixel</span>error one 
+<span>Chris Coyier</span>Well that seems to work eh? 
+<span>silver</span>I see layout breaking! <img src='smiles/sad.png'/> 
+<span>hello</span>i love you 
+<span>brdave</span>i luv you too 
+<span>inspiringpixel</span>the username list does not set itself into auto scroll 
+<span>admin</span>Look ma, I&#039;m a reserved username! 
+<span>Chris Coyier</span>just the user lists gets too long too quick 
+<span>O.O</span>hi <img src='smiles/smile.gif'/> 
+<span>hello</span>
+<span>Test</span>Great thing 
+<span>oops</span>hello there 
+<span>shay</span>nice work chris 
+<span>dustintheweb</span>FF 3.6 - chatters list drops out of its container 
+<span>Rene</span>;) 
+<span>Harry</span>don&#039;t see any problem apart from the current chatters list goes on for longer than the bounding shad   
+<span>O.O</span>when the user list its to big... there is a problem <img src='smiles/smile.gif'/> 
+<span>c</span>wrod 
+<span>joelturner82</span>That was an effective tweet 
+<span>brdave</span>very very very very very very very very very very very very very very very very very very very very  
+<span>Charlie!</span>the users break the container 
+<span>hello</span>ma pants are hoz 
+<span>Test</span>FF 3.5 too 
+<span>rich</span>the section div isn&#039;t clearing the names 
+<span>art</span>yeah users break the container 
+<span>Charlie!</span>i am jealous 
+<span>popopo</span>jo 
+<span>asdf</span>h-h-hello? 
+<span>PantsOnThaFlow</span>look at me here with my pants on da flow 
+<span>O.O</span>hey! people, you dont have to work? XDDDD 
+<span>c</span>poop 
+<span>css-tricks</span>interesting 
+<span>silver</span>I&#039;m in chrome and im seeing the same thing  
+<span>oops</span>im working 
+<span>admin</span>yeah, the &quot;Current Chatters&quot;-Box breaks in FF3.6 
+<span>c</span>penis 
+<span>Charlie!</span>it looks pretty fast 
+<span>shay</span>@work now 
+<span>Charlie!</span>has a bunch of users 
+<span>hello</span>my pen is large 
+<span>popopo</span>ok 
+<span>PantsOnThaFlow</span>hi Chris, works good, but I&#039;m seeing a large overflow on the &#039;Current Chatters&#039; sidebar 
+<span>bingo</span>hmm, what&#039;s this for? 
+<span>dustintheweb</span>no unicode support - just checked 
+<span>David</span>Oooh 
+<span>David</span>OoOOooOOh 
+<span>admin</span>And I don&#039;t see a logout-button. And no way to get back to the Channellist - I&#039;m confused and lost! 
+<span>bpartridge</span>yeah, overflow for Current Chatters is the biggest fix 
+<span>inspiringpixel</span>Ok.. how does one change the rooms 
+<span>popopo</span>it&#039;s for asking stupid questions 
+<span>David</span>This is rad 
+<span>silver</span>I wish i could make the chat window longer, it&#039;s hard to keep up with so many chaters 
+<span>hello</span>bye i have to masturbate now 
+<span>inspiringpixel</span>suppose I get bored in one 
+<span>coyier</span>why my -ie-border-radius:5px; isn&#039;t working? 
+<span>codyinman</span>is this running off php? 
+<span>O.O</span>div#userlist { height::500px; overflow:auto  }
+<span>Chrille</span>Hiiii 
+<span>Charlie!</span>overflow: scroll? 
+<span>bpartridge</span>@inspiringpixel: click &quot;Chat v2&quot; 
+<span>Chrille</span>Totally 
+<span>plunger</span>chatter chatter 
+<span>Chrille</span>haha his is fanny 
+<span>O.O</span>You people rock! XD 
+<span>Chris</span>Yeah. Chatter List needs a scrollbar 
+<span>super duper</span>yes 
+<span>super duper</span>asdfasdfasdfas 
+<span>plunger</span>plunger? what&#039;s funny about plungers? 
+<span>hello</span>byeee i lov you all : ))) 
+<span>Charlie!</span>byeeeeeeeeeee 
+<span>PantsOnThaFlow</span>so would the real CC please stand up? 
+<span>super duper</span>chis is cool! 
+<span>codyinman</span>current chatters does not push dark black bg down 
+<span>inspiringpixel</span>cool 
+<span>kiskiliskis</span>wow 
+<span>shay</span>Chris, when you scroll the chat window up to read older messages it automatically drops back down on      
+<span>kiskiliskis</span>good job chris 
+<span>inspiringpixel</span>what else 
+<span>inspiringpixel</span>ok another issue 
+<span>popopo</span><a href="http://www.youtube.com/watch?v=LH5ay10RTGY" target="_blank">http://www.youtube.com/watch?v=LH5ay10RTGY</a> 
+<span>thamil_pediyan</span>boo 
+<span>Vernontheiii</span>Yeah i can see what shay is saying 
+<span>inspiringpixel</span>wen you come back from the home page to your previous chat room 
+<span>shay</span>Looks like the form eats up some characters with long messages. 
+<span>inspiringpixel</span>it starts anew.. kind of irritating 
+<span>iamfriendly</span>Now? 
+<span>Vernontheiii</span>it should be stay where your at but notify you that more has been said 
+<span>Jad</span>Hello 
+<span>lee</span>all working <img src='smiles/smile.gif'/> 
+<span>O.O</span>jaja the people goes in more in css chatroom 
+<span>codyinman</span>everyone run FF 3.6 
+<span>Chris Brame</span>Username list streches past div 
+<span>iamfriendly</span>Ah there it goes! For a while there Chris, I couldn&#039;t send messages <img src='smiles/smile.gif'/> 
+<span>PantsOnThaFlow</span>i&#039;m on 3.6 fo sho, and my pants are on da flo 
+<span>Chris Coyier</span>reload for scrollable chatter list 
+<span>O.O</span>FF 3.6 on Vista 
+<span>O.O</span>all ok. 
+<span>thatryan</span>lol yeah chatters list is overflowing 
+<span>PantsOnThaFlow</span>ff3.6 on winXP 
+<span>asdf</span>Scrollable works now 
+<span>iamfriendly</span>wasn&#039;t getting any error messages, so can&#039;t offer any advice as to why, I&#039;m afraid ]
+<span>thatryan</span>actually just tweeted you a pic of it chris 
+<span>robby</span>test 
+<span>Chris Brame</span>ah worked great thanks chris 
+<span>codyinman</span>good to see so many FF 3.6 
+<span>Chris Brame</span>looks wonderful 
+<span>PantsOnThaFlow</span>xp4lyfe 
+<span>kiskiliskis</span>not scrollable yet 
+<span>Tu pap&Atilde;&iexcl;</span>this is great 
+<span>genshiken</span>errm 
+<span>DanC</span>&#039;elo 
+<span>Adam</span>Hello? 
+<span>Poop-Nugget</span>looks like a chat room 
+<span>O.O</span>TinyChat u_u 
+<span>Drawar</span>This tickles my pooter. 
+<span>Chris Brame</span>Love it 
+<span>asdf</span>I disliked the way you choose a username, the &quot;Go In!&quot; and &quot;Check&quot; were just awkward. 
+<span>test</span>fdaf a 
+<span>Chris Brame</span>I want it 
+<span>test</span>ds a  
+<span>test</span>s a 
+<span>asdf</span>And Character Limit? 
+<span>asdf</span>Come on... 
+<span>codyinman</span>good work CC. always impressed with your pet projects 
+<span>PantsOnThaFlow</span>nice, F5 kept the past 5-10 entries 
+<span>thatryan</span>no flood <img src='smiles/smile.gif'/> 
+<span>test</span>The background doesnt extend all the way down for me 
+<span>popopo</span>Current Chatters should be above the  that scrolls... 
+<span>ammonkc</span>This is nice 
+<span>iamfriendly</span>Great stuff, Chris, as always 
+<span>popopo</span>ABOVE THE DIV 
+<span>PantsOnThaFlow</span>alpha the user list 
+<span>ZephNor</span>Hm nice chat  room <img src='smiles/bigsmile.png'/>
+<span>Drawar</span>Pants on the ground, pants on the ground, lookin like a fool witcha pants on da ground. 
+<span>hey</span>testtesttest 
+<span>Chris Coyier</span>It&#039;s not very full featured.... you can&#039;t log out, you can&#039;t kick people out... 
+<span>Chris Brame</span>love the smiles <img src='smiles/smile.gif'/> 
+<span>Chris Coyier</span>but whatever, it&#039;s pretty cool I think 
+<span>kiskiliskis</span>wew 
+<span>bob</span>I am bob! 
+<span>kiskiliskis</span>i cant logout 
+<span>thatryan</span>whoa 
+<span>kiskiliskis</span>no session? 
+<span>PantsOnThaFlow</span>/me is looking like a fool 
+<span>Yo</span>Chris? 
+<span>alberto</span><img src='smiles/smile.gif'/> 
+<span>inspiringpixel</span>@chris coyier.. we can live with tht 
+<span>hey</span>what is this written in, chris? 
+<span>alberto</span><img src='smiles/sad.png'/> 
+<span>test1</span>Chris, in chrome the background wasnt extending all the way for me 
+<span>test1</span>fyi 
+<span>thatryan</span>whole user list went blank then reappeared ;) 
+<span>Yo</span>It doesn&#039;t seem to work on Firefox 3.6 
+<span>Chris Coyier</span>it&#039;s jquery/php 
+<span>ZephNor</span>suppose we&#039;ll just have to close the window &gt;.&lt; 
+<span>scatheza</span>awesome, great work Chris <img src='smiles/smile.gif'/> 
+<span>ammonkc</span>it looks good in safari 
+<span>Drawar</span>Chris, it&#039;s Friday, stop coding up stuff. Let&#039;s get some shots. 
+<span>davidlink</span>Awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww 
+<span>alberto</span>&#039;&#039;&#039; &quot; &#039;&#039; &#039;&quot;&quot;&quot; encoding test 
+<span>Yo</span>Well, it works but you can&#039;t see what is being typed 
+<span>hey</span>good job. peace! 
+<span>Chris Coyier</span>text is kept in chat files, usernames use a database 
+<span>asdfasdf</span>asdfasdf 
+<span>Tu pap&Atilde;&iexcl;</span>no accent characters &Atilde;&iexcl;&Atilde;&copy;&Atilde;&shy;&Atilde;&sup3;&Atilde;&plusmn; ?? 
+<span>inspiringpixel</span>looks like the entire community is here 
+<span>PantsOnThaFlow</span>whoa, nowrap ftl, lol 
+<span>Poney</span>Looks cool on Chrome for Mac. should fix the overflow-x  
+<span>inspiringpixel</span>this is fun 
+<span>popopo</span>@davidlink nice one <img src='smiles/bigsmile.png'/> 
+<span>dmk</span><img src='smiles/bigsmile.png'/> 
+<span>Chris Brame</span>Make it a SC so I can watch it tonight <img src='smiles/smile.gif'/> 
+<span>NIGGER</span>HAI GUYS!! 
+<span>POPE</span>BUSTED 
+<span>hey</span>yikes. 
+<span>thatryan</span>wow really 
+<span>POPE</span>ALL OF YOU 
+<span>POPE</span>BACK TO WORK 
+<span>inspiringpixel</span>maybe chris can setuo these chatrooms every friday night and then people come and discuss stuff 
+<span>Drawar</span>INSERT INTO database (users) VALUES (&quot;i am hacking your ish&quot;); 
+<span>dmk</span>alert(&#039;ahhh!&#039;)
+<span>dmk</span><img src='smiles/bigsmile.png'/> 
+<span>hey</span><img src='smiles/sad.png'/> 
+<span>Yo</span><img src='smiles/bigsmile.png'/> 
+<span>Yo</span><img src='smiles/smile.gif'/> 
+<span>hey</span>emoticons! 
+<span>inspiringpixel</span><img src='smiles/smile.gif'/> 
+<span>Chris Brame</span>smiles aren&#039;t transparent? 
+<span>Drawar</span>;-) 
+<span>Yo</span>;) 
+<span>roland</span>:-P 
+<span>thatryan</span>no winky face 
+<span>Chris Coyier</span>indeed, there are some smilies 
+<span>PantsOnThaGround</span>mybaloneyhasafirstname 
+<span>Drawar</span>no wink? 
+<span>hey</span>B-P 
+<span>inspiringpixel</span>Sweer emoticons... but the transparency .. Ouch! 
+<span>Drawar</span>NO WINK? 
+<span>Tu pap&Atilde;&iexcl;</span><img src='smiles/sad.png'/> 
+<span>davidlink</span>WEE! 
+<span>PantsOnThaGround</span><img src='smiles/bigsmile.png'/> 
+<span>NIGGER</span>ARABS OUT!! 
+<span>POPE</span>DIDN&#039;T I SAY GET BACK TO WORK? 
+<span>roland</span>B-) 
+<span>gb</span>where am i? 
+<span>Chris Brame</span>whoa really 
+<span>POPE</span>you&#039;re all fired. 
+<span>kiskiliskis</span>COOL 
+<span>PantsOnThaGround</span>/me banuser 
+<span>mauditcrousse</span>cocorico ! 
+<span>David</span>Hello? 
+<span>David</span>is you I&#039;m looking for? 
+<span>POPE</span>Hi dave. 
+<span>kiskiliskis</span>html tags are stripped. nice/ 
+<span>David</span>Hey pop 
+<span>roland</span>now it needs kicking/banning obnoxious users 
+<span>David</span>pope 
+<span>PantsOnThaGround</span>Dave&#039;s not here. 
+<span>Chris Brame</span>/agree roland 
+<span>Chris Coyier</span>user banning would be the #1 feature I would add 
+<span>Jussi</span>testing from Finland, Hi everyone <img src='smiles/smile.gif'/> 
+<span>David</span>I&#039;m here! 
+<span>gb</span>i&#039;m obnoxious. normally 
+<span>yo momma</span>daves not here man 
+<span>Chris Brame</span>/agree CC 
+<span>David</span>Yes he is 
+<span>davidlink</span>FAFAFAFA 
+<span>NIGGER</span>Add it then tubs 
+<span>offbrand</span>looking forward to this screencast...lol 
+<span>David</span>Dave is here!! 
+<span>mauditcrousse</span><img src='smiles/smile.gif'/><img src='smiles/smile.gif'/><img src='smiles/smile.gif'/><img src='smiles/smile.gif'/><img src='smiles/smile.gif'/> 
+<span>PantsOnThaGround</span>nah man, dave&#039;s not here 
+<span>frushkum</span>hi 
+<span>David</span>I changed it to David 
+<span>Chris Coyier</span>which should be doable via IP 
+<span>roland</span>what about a # of users in the room at the top? 
+<span>mauditcrousse</span>&#039; 
+<span>davidlink</span>text-decoration: blink doesn&#039;t work. 
+<span>Tu pap&Atilde;&iexcl;</span>horizontal scoll? 
+<span>mark</span>hi there <img src='smiles/smile.gif'/> 
+<span>davidlink</span>Success. 
+<span>popopo</span>&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14;&Atilde;&frac14; 
+<span>NIGGER</span>Anyways.. sorry about the disruption and all that. I&#039;m away. Enjoy <img src='smiles/smile.gif'/> 
+<span>Bibofau</span>hi. nice colours. 
+<span>David</span>
+<span>mauditcrousse</span>h&Atilde;&copy;h&Atilde;&copy; 
+<span>@ronniev</span>someone probably already said this but on my Safari the blackish box not covering currnt chatter lst 
+<span>frushkum</span>bye 
+<span>PantsOnThaGround</span>so, about that health care... 
+<span>David</span>yea 
+<span>Chris&Acirc;&nbsp;Coyier</span>Yo Yo Yo where&#039;s chris gone? 
+<span>roland</span>@ronniev - refresh the window 
+<span>mauditcrousse</span>utf8 -&gt; iso bug &Atilde;&copy;&Atilde;&nbsp; 
+<span>elightbo</span>test test 
+<span>Yo</span>                     _..-&#039;(                       )`-.._                    ./&#039;. &#039;||\\.       (\_/)  
+<span>Bibofau</span>!&quot;&Acirc;&sect;$%&amp;/() 
+<span>@ronniev</span>sweet.. thanks..  
+<span>bananas-are-awesome</span>weeeeeeeee! 
+<span>test</span><img src='smiles/smile.gif'/> 
+<span>Tu pap&Atilde;&iexcl;</span><img src='smiles/tongue.png'/> 
+<span>Kostas</span>looks good Chris.. 
+<span>Yo</span>                 | |_||_    (  )       sssSSSSSs                   | | ||_   (    )    sSSSSSSSSSSSs 
+<span>PantsOnThaGround</span>&Atilde;’,&Atilde;“ 
+<span>cescopag</span>Hello world! 
+<span>andrew</span><img src='smiles/smile.gif'/> 
+<span>bananas-are-awesome</span>by the way - bananas are awessome incase you didnt know.... <a href="http://bananasandcoffee.com" target="_blank">http://bananasandcoffee.com</a> 
+<span>PantsOnThaGround</span>yeh, ascii code fail 
+<span>andrew</span>@@@@@ 
+<span>PantsOnThaGround</span>niki brown?  
+<span>PantsOnThaGround</span>the real niki brown? 
+<span>andrew</span>2222@@@@&acirc;‚&not;&acirc;‚&not;&acirc;‚&not;&acirc;‚&not;&acirc;‚&not;&acirc;‚&not;&acirc;‚&not;2 
+<span>cescopag</span>test 
+<span>mauditcrousse</span>could be intereting to have it rezisable 
+<span>andrew</span>euro symbol not working 
+<span>Yo</span>Hehe, don&#039;t be like this guy. <a href="http://i.imgur.com/zt5eI.gif" target="_blank">http://i.imgur.com/zt5eI.gif</a> 
+<span>inspiringpixel</span>can we spam here? 
+<span>cromox</span>hi 
+<span>cescopag</span>alert(&#039;hi dudes&#039;); 
+<span>andrew</span>comes out like this &acirc;‚&not;&acirc;‚&not;&acirc;‚&not;&acirc;‚&not; 
+<span>PantsOnThaGround</span>so did Chris say what this is built on? 
+<span>Fred</span>what kind of load is this putting on your server? 
+<span>mauditcrousse</span>&Atilde;&copy;&Atilde;&copy; 
+<span>andrew</span>&Acirc;&sect;&Acirc;&sect;&Acirc;&sect;&Acirc;&sect; 
+<span>andrew</span>&Acirc;&plusmn;&Acirc;&plusmn;&Acirc;&plusmn; 
+<span>mauditcrousse</span>ba 
+<span>inspiringpixel</span>@pantsontheground Php and avascript ... i guess
+<span>andrew</span>;)) 
+<span>andrew</span>;) 
+<span>andrew</span><img src='smiles/smile.gif'/> 
+<span>rebl</span>pretty cool          
+<span>test</span><img src='smiles/smile.gif'/> 
+<span>andrew</span>:0) 
+<span>sebnitu</span>I love lamp 
+<span>test</span>;) 
+<span>po</span>Sticky footer 
+<span>hugsformonsters</span>HELLO IS THIS THE INTERNET? 
+<span>Kostas</span>&Atilde;&iexcl; 
+<span>Tu pap&Atilde;&iexcl;</span>:@ 
+<span>user</span>nice 
+<span>inspiringpixel</span>signining off geeks! <img src='smiles/smile.gif'/> I 
+<span>po</span>It does not sticky in IE 
+<span>sebnitu</span>Is this real life? 
+<span>user</span>wtf 
+<span>PantsOnThaGround</span>Hi, I&#039;m contacting you because your uncle died. He was to inherit 300 bagillion mexican pesos. 
+<span>rebl</span>WTF you using IE 
+<span>PantsOnThaGround</span>Send me your first-born child, kthxbai 
+<span>AgentG</span>hi 
+<span>po</span>Yes 
+<span>PantsOnThaGround</span>this is memorex 
+<span>user</span>ok 
+<span>rebl</span>Look pretty nice in Google Chrome 
+<span>po</span>I am testing 
+<span>mark</span>alert(&quot;xssed&quot;); 
+<span>user</span>ok 
+<span>mark</span>nice <img src='smiles/smile.gif'/> 
+<span>howard</span>DROP TABLE members /* 
+<span>PantsOnThaGround</span>lol howard <img src='smiles/tongue.png'/> 
+<span>mark</span>just a textfile *g* 
+<span>rebl</span>the avatars could have better backgrounds 
+<span>howard</span><img src='smiles/tongue.png'/> 
+<span>AgentG</span>lol 
+<span>rebl</span>or better emoticons 
+<span>po</span>Nice chat 
+<span>po</span>it&#039;s going so fast 
+<span>PantsOnThaGround</span>your mom has a nice chat 
+<span>AgentG</span>it&#039;s pretty good 
+<span>rebl</span>where&#039;s chris   
+<span>PantsOnThaGround</span>he&#039;s got actual work to do prolly 
+<span>mauditcrousse</span>a &quot;Konami Code &quot;
+<span>PantsOnThaGround</span>speaking of... 
+<span>Janna</span>tes 
+<span>AgentG</span>.someclass { color: #333; } 
+<span>Testy McTesterson</span>horizontal scrollbars on the chatters list ...
+<span>AgentG</span>was just wondering if it did code highlighting <img src='smiles/tongue.png'/> 
+<span>marcandrew</span>this is pretty cool 
+<span>iowa</span>hey now 
+<span>micek</span>sweet! 
+<span>Mo</span>So, is this all powered without SQL? 
+<span>rebl</span>it seems he made this thing from ground up using PHP and Jquery 
+<span>mark</span>still usin  1.3.2
+<span>meh</span>groovey.  Seems to work well! 
+<span>rebl</span>Chris uses Apache with CentOS  
+<span>Mo</span>I have a similar system running on one of my sites, PHPFreeChat; had a TON of bugs though, no SQL 
+<span>Kostas</span>i don&#039;t think there&#039;s any sql.. 
+<span>rebl</span>No sign of SQL    
+<span>mark</span>recommend  to put the js in a closure 
+<span>Chris Coyier</span>The &quot;Real me&quot; is OUT folks, thanks for testing. Behave <img src='smiles/smile.gif'/> 
+<span>AgentG</span>cya 
+<span>Mo</span>Sure thing. <img src='smiles/bigsmile.png'/> 
+<span>Kostas</span>;) 
+<span>scatheza</span>:O 
+<span>micek</span><img src='smiles/tongue.png'/> 
+<span>mark</span>hm 
+<span>bill</span>interesting  
+<span>mark</span>changed my name to hmmm on the list. lol 
+<span>scatheza</span>nice scrollbar for users <img src='smiles/smile.gif'/> 
+<span>rebl</span>are you going to write a tutorial on creating this chat thingy? 
+<span>AgentG</span>I think he left the room 
+<span>test</span>hi 
+<span>rebl</span>I think he is secretly watching us 
+<span>AgentG</span>haha... maybe 
+<span>test</span>where is the logout button <img src='smiles/smile.gif'/> 
+<span>mark</span>he can read it all later  <img src='smiles/smile.gif'/>
+<span>test</span><img src='smiles/bigsmile.png'/> 
+<span>AgentG</span>maybe he&#039;s just watching you ;) 
+<span>test</span>i want logout <img src='smiles/tongue.png'/> 
+<span>eskaybee</span>Wow, this chat is much nicer than the other 
+<span>test</span>hey chris where is the logout option? 
+<span>eric</span>Logout and switch chatroom would be good 
+<span>&Oslash;&acute;&Oslash;&sect;&Oslash;&ordf; &Oslash;&sect;&Ugrave;„&Oslash;&sect;&Oslash;&micro;&Oslash;&macr;&Oslash;&sect;&Oslash;&plusmn;&Ugrave;&iexcl;&Ugrave;&iexcl;&Ugrave;&cent;</span>hi 2 all 
+<span>berko</span>press the chat on top 
+<span>berko</span>to go to another chat room 
+<span>berko</span>but theres no logout button 
+<span>berko</span>Chris should add like a noob chat room 
+<span>berko</span>so people can help out starters 
+<span>rebl</span>chats take lot of system resources though 
+<span>berko</span>true 
+<span>rebl</span>one of my friend uses a facebook clone script and runs similar chat 
+<span>berko</span>chris should also add stuff in the text box 
+<span>rebl</span>most of the bandwidth is used up in chats 
+<span>Joshua</span>i&#039;ve built something similar for mobile phones <a href="http://joshuaschaible.com/betachat/" target="_blank">http://joshuaschaible.com/betachat/</a> 
+<span>Andy</span>Hey everybody! 
+<span>AgentG</span>is everyone here on twitter? 
+<span>robbiefa</span>Hello 
+<span>Joshua</span>Yo Yo Yo 
+<span>Joshua</span>I am 
+<span>robbiefa</span>just thought I&#039;d test this bad boy out 
+<span>meh</span>For anyone who is interested I have a Things giveways happening over here.  
+<span>meh</span><a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a> 
+<span>danphilibin</span>looking good! 
+<span>robbiefa</span>pretty sweet 
+<span>rebl</span>hey meh, your chat is pretty cool man 
+<span>there</span>hi
+<span>meh</span>For anyone who is interested I have a Things giveway happening over here.  <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a> 
+<span>a</span>weee 
+<span>send from firebug</span>hi
+<span>SeanHood</span>Hey! 
+<span>chat.send(&#039;hi</span>hi
+<span>AgentG</span>Things is a solid product btw 
+<span>Kostas</span><a href="http://css-tricks.com/examples/Chat2/room/?name=Noob%20Chat" target="_blank">http://css-tricks.com/examples/Chat2/room/?name=Noob%20Chat</a> 
+<span>Joshua</span><a href="http://css-tricks.com/examples/Chat2/room/?name=Boob%20Chat" target="_blank">http://css-tricks.com/examples/Chat2/room/?name=Boob%20Chat</a> 
+<span>chat.send(&#039;hi&#039;, &#039;send from firebug&#039;);</span>hi
+<span>SeanHood</span>You guys should check out <a href="http://chatrboxapp.com/" target="_blank">http://chatrboxapp.com/</a> 
+<span>unmatchedstyle</span>Very clever Chris! 
+<span>test</span>javascript(alert()) 
+<span>AgentG</span>ok I&#039;m outie 
+<span>AgentG</span>ttyl 
+<span>mark</span>no xss here lol 
+<span>test</span>alert(); 
+<span>Kostas</span>users work in unofficial chatrooms, but there is no file associated to add the conversations 
+<span>arne</span>sweet 
+<span>Joshua</span>LATA 
+<span>rebl</span>LATA? who? 
+<span>rebl</span>test
+<span>foobarz</span>test  test
+<span>evano</span>what is this nonsense? 
+<span>Tester</span>yeez 
+<span>eternicode</span>children testing the novelties of an irc-like system <img src='smiles/smile.gif'/> 
+<span>Tester</span>x) 
+<span>Chris Coyier</span>No security checking...
+<span>Chris Coyier</span>Of course this is not him
+<span>hmmmmm</span>wich nonsens?
+<span>hello?</span>ping
+<span>Drew</span>Child, I am 
+<span>hey _chit</span>hey 
+<span>elyezer</span>This chat will be always on? 
+<span>hey _chit</span>great 
+<span>meh</span>As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a> 
+<span>An Alien</span>probably yes..
+<span>meh</span>Been using it for mo nths, great App. Worth entering if you own a Mac.  
+<span>Another Alien</span>I agree Alien <img src='smiles/smile.gif'/>
+<span>-</span>Hehe.. tons of fun!
+<span>woot</span>good morning
+<span>woot</span>hi there
+<span>woot</span>hi there
+<span>Kris_H</span>Hey 
+<span>Chris Brame</span>hey guys 
+<span>Chris Brame</span>how r ya?
+<span>helldiver</span>woot 
+<span>woot</span>yes?
+<span>woot</span>hi there
+<span>kingkool68</span>hola 
+<span>poop</span>poop 
+<span>kingkool68</span>poop 
+<span>poop</span>noop
+<span>poop</span>peng
+<span>noop</span>poop
+<span>meh</span>As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a> 
+<span>Kris_H</span>hmmmm
+<span>meh</span>sorry for my spam
+<span>meh</span>I will not spam this chat
+<span>meh</span>oops, maybe i spam
+<span>meh</span>ok, i dont
+<span>Domas</span>is it working? 
+<span>bill</span>hi 
+<span>Domas</span>it is working
+<span>meh</span>I think there are two people in here with my name.  I didn&#039;t post of those messages 
+<span>Domas</span>yeah, me too <img src='smiles/bigsmile.png'/> 
+<span>Domas</span>nice smile.. 
+<span>Domas</span>yeah!
+<span>Domas</span>Kostas, from? 
+<span>Domas</span>maybe im 3 times in here?
+<span>Domas</span>maybe 4? 
+<span>God</span>I should stop messing with people..
+<span>Kostas</span>Hey Domas 
+<span>Domas</span>I think so.. <img src='smiles/bigsmile.png'/> 
+<span>God</span>ok
+<span>God</span>i warned you!
+<span>Domas</span>God, do you know where S evil is?
+<span>Domas</span>Devil* 
+<span>God</span>nope, sorry
+<span>meh</span>As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a> 
+<span>Domas</span>ah, thanks
+<span>&acirc;ˆž</span>It stops being funny if everyone is God..
+<span>meh</span>    
+<span>meh</span><img src='smiles/bigsmile.png'/> :-) <img src='smiles/smile.gif'/> 
+<span>meh</span><img src='smiles/tongue.png'/> 
+<span>meh</span>that is cool 
+<span>A</span>It stops being funny if everyone is God..
+<span>meh</span><img src='smiles/sad.png'/> 
+<span>meh</span>i love it
+<span>meh</span>Argh, go away other meh,  You are irritating me now! 
+<span>meh</span>As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a> 
+<span>A</span>yep
+<span>&Icirc;&copy;</span>Just stop spamming.. will you?
+<span>meh</span>As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a> 
+<span>meh</span>As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a>
+<span>meh</span>As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a>   
+<span>meh</span>As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a>  
+<span>meh</span>As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a>       
+<span>meh</span>As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a> 
+<span>meh</span>As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a> 
+<span>meh</span>As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a> 
+<span>meh</span>v v As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a>  
+<span>meh</span>v As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a> 
+<span>Domas</span>vvv 
+<span>meh</span>As this is a pretty active forum; for those who missed it: For anyone who is interested I have a Things giveway happening over here. <a href="http://appflow.co.uk/2010/01/things-giveaway/" target="_blank">http://appflow.co.uk/2010/01/things-giveaway/</a> 
+<span>meh</span>no bankick here. lol
+<span>Domas</span>/nick as 
+<span>Domas</span><img src='smiles/bigsmile.png'/> 
+<span>meh</span>i tried so hard. lol
+<span>Domas</span>ok, see you later God.. 
+<span>Domas</span>damn, no irc commands here
+<span>jordan</span>this doesn&#039;t look like a playground. <img src='smiles/tongue.png'/> 
+<span>jordan</span>hmmm
+<span>eternicode</span>hmmm
+<span>mark</span>strange  here 
+<span>blarg</span>yes
+<span>koster</span>hello worldd 
+<span>mark</span>hi koster 
+<span>koster</span>soo this is the playground 
+<span>mark</span>looks like 
+<span>mark</span>nice chat system 
+<span>koster</span>yeah.. i like it 
+<span>averagejoe</span>Much better than v1 
+<span>averagejoe</span>but the r still bugs in it
+<span>mark</span>which bugs? 
+<span>mark</span>seems to work  
+<span>koster</span>who cares
+<span>mark</span>hmmm... chris does not seem to be here 
+<span>rockbot</span>hi
+<span>Josephwalker</span>hi
+<span>felipe</span>heeeyyy there! 
+<span>mark</span>hello 
+<span>mark</span>so quiet here 
+<span>felipe</span>chris coyer  is amazing 
+<span>mark</span>yeah, i love his video tuts 
+<span>felipe</span>when i was starting he help me a lot 
+<span>mark</span>me too 
+<span>mark</span>to bad hes not in here right now 
+<span>rockbot</span>Logged in but is there a way to log out?  
+<span>pippolo</span>yeah, no log out button 
+<span>mark</span>just leave the site i guess 
+<span>nicksayre</span>unless you wanted to change your name? 
+<span>mark</span>is there a way to change the name here? 
+<span>baz</span>:-) 
+<span>nicksayre</span>that&#039;s what i&#039;m getting at. looks like you have to leave the page then login again 
+<span>nicksayre</span>or capture somones nick via javascript <img src='smiles/smile.gif'/>
+<span>nicksayre</span>but hey, its version 2 and i like it <img src='smiles/smile.gif'/>
+<span>Matthew</span>oh 
+<span>Matthew</span>/help 
+<span>mark</span>well, i tried that too 
+<span>Matthew</span><img src='smiles/smile.gif'/> 
+<span>mark</span>but there seems to be no irc commands yet 
+<span>baz</span>:0 
+<span>mark</span>maybe in a later version? 
+<span>baz</span><img src='smiles/smile.gif'/> 
+<span>baz</span>8)
+<span>mark</span><a href="http://css-tricks.com/examples/Chat2/room/chatroom-css.txt" target="_blank">http://css-tricks.com/examples/Chat2/room/chatroom-css.txt</a> 
+<span>Brian</span>What&#039;s the story behind this? 
+<span>mark</span>dont know, just saw a tweet from chris <img src='smiles/smile.gif'/> 
+<span>Zippy</span>what? 
+<span>Zippy</span>;-0 
+<span>Zippy</span>:-) 
+<span>Zippy</span><img src='smiles/smile.gif'/> 
+<span>Zippy</span>;) 
+<span>Zippy</span>fsssh 
+<span>Zippy</span>weak 
+<span>Zippy</span>lame
+<span>Pablo</span>Hey 
+<span>smasty</span>Good one... 
+<span>smasty</span>hey, ca&#039;nt see my chats! 
+<span>smasty</span>sloooow... 
+<span>iRolfje</span>Hi 
+<span>smasty</span>very slow... 
+<span>iRolfje</span>Test 
+<span>iRolfje</span>its not slow here 
+<span>smasty</span>kinda lame
+<span>iRolfje</span>its realy fast! 
+<span>iRolfje</span>1 or maby 1,9 sec before the message shows up 
+<span>iRolfje</span>0 to 0,9 i mean 
+<span>iRolfje</span>sometimes even faster
+<span>iRolfje</span><img src='smiles/tongue.png'/> 
+<span>mark</span>i&#039;v seen over 30 ppl in here and there was no lag 
+<span>marty</span>sup folks. 
+<span>Bill Niel</span>* 
+<span>jonathan</span>hello 
+<span>jonathan</span><img src='smiles/tongue.png'/> 
+<span>pixelfuture</span>interesting. I didn&#039;t know what to expect. I like the design of the app so far. pretty cool. 
+<span>amberhanks</span>hello 
+<span>amberhanks</span>perdy 
+<span>pixelfuture</span>this is the CSS playground. Lets play 
+<span>mark</span>a timestamp would be cool 
+<span>lazlow</span>Hello 
+<span>lazlow</span>Oooh realtime 
+<span>lazlow</span>Hello World!&#039;; alert(&quot;hello world&quot;); 
+<span>lazlow</span>Nice, prevents XSS 
+<span>lazlow</span>hmmm... no xss here
+<span>tester</span>hi 
+<span>kiskiliskis Fri Jan 22 22:56:26 2010</span>@mark: something like this?
+<span>mark</span>wow 
+<span>mark</span>how did you do that? 
+<span>kiskiliskis Fri Jan 22 22:57:42 2010</span>hmmmm?
+<span>kiskiliskis Fri Jan 22 22:57:50 2010</span>good question?
+<span>amberhanks</span><img src='smiles/smile.gif'/> 
+<span>amberhanks</span>:* 
+<span>tester</span>;) 
+<span>tester</span><img src='smiles/smile.gif'/> 
+<span>john</span>:-) 
+<span>john</span><img src='smiles/smile.gif'/> 
+<span>mark</span>;)
+<span>mark</span>;-)
+<span>chrisblackwell</span>Hello 
+<span>chrisblackwell</span><img src='smiles/smile.gif'/> 
+<span>chrisblackwell</span>:-) 
+<span>mark</span>hi there
+<span>john</span>hi 
+<span>justin</span>hey 
+<span>justin</span>pretty cool simple design 
+<span>justin</span>i like it 
+<span>mark</span>works nice
+<span>john</span>yea 
+<span>Joshua</span>Hey hey 
+<span>mark</span>hi
+<span>john</span>hi 
+<span>Joshua</span>Having fun? 
+<span>tedrs</span>Checking it out... 
+<span>miniMAC</span>ehi 
+<span>miniMAC</span>nice idea and god job chris 
+<span>mark</span>works nice
+<span>tedrs</span>Leaving now...  
+<span>john</span>seems he&#039;s not here 
+<span>ctdesign</span>very nice chris 
+<span>mark</span>i like it too
+<span>miniMAC</span>but... the scroll 
+<span>miniMAC</span>is possible to replace with a custom script 
+<span>Muzik</span>looks nice 
+<span>miniMAC</span>another request is: add icon at the left for any nickname 
+<span>Muzik</span>goodbye 
+<span>miniMAC</span>goodbye 
+<span>kiskiliskis - Fri Jan 22 23:16:34 2010</span>and some sort of timestamp
+<span>kiskiliskis - Fri Jan 22 23:16:46 2010</span>pls
+<span>kiskiliskis</span>Fri Jan 22 23:17:46 2010 or more something like this?
+<span>kiskiliskis</span>[Fri Jan 22 23:18:23 2010]: this is looking even better.
+<span>kiskiliskis</span>[Fri Jan 22 23:18:37 2010]: yeah.
+<span>brianvanaski</span>more like 5:18PM and for older chats 1/21/10 5:23PM 
+<span>kiskiliskis</span>[Fri Jan 22 23:18:43 2010]: nice.
+<span>brianvanaski</span>The date is only needed for chats that are older than a day 
+<span>froggy</span>Oink! 
+<span>kiskiliskis</span>well, u r right
+<span>brianvanaski</span>Nothing new, just follow Skype 
+<span>kiskiliskis</span>but I guess the chatfile will be cached
+<span>brianvanaski</span>The gray around the user name may be too dark. It dominates the text just a bit ,
+<span>jlaeser</span>looks good. 
+<span>john</span>looking forward to v3 
+<span>kiskiliskis</span>some minor javascript issues needs to be fixed
+<span>john</span>some bbcode would be nice 
+<span>a</span>ello 
+<span>john</span>hi there 
+<span>kiskiliskis</span>hi
+<span>wasqas</span>hey
+<span>pixelfuture</span>hello
+<span>ping</span>yo yo yo 
+<span>ping</span>wassup
+<span>ping</span>rob are you on here? 
+<span>rob</span>sure i am
+<span>ping</span>rob from portland? 
+<span>rob</span>ah... huh?
+<span>ping</span>nm 
+<span>rob</span>k, sry
+<span>kiskiliskis</span>hi there
+<span>Me</span>Hey everyone 
+<span>john</span>hi 
+<span>Me</span>Gotta love this site, eh? 
+<span>kiskiliskis</span>sure
+<span>john</span>yeah, great 
+<span>Me - signout</span>
+<span>andrewchamp</span>How&#039;s it going? 
+<span>john</span>thanks, good, u? 
+<span>andrewchamp</span>Very well for me. It says &quot;me&quot; on another user. Is that chris? 
+<span>fuck</span>aja 
+<span>john</span>dont know 
+<span>fuck</span>it correct 
+<span>fuck - is lame</span>
+<span>fuck</span>jajaja 
+<span>fuck</span>ya all
+<span>fuck</span>lol
+<span>fuck</span><img src='smiles/bigsmile.png'/> 
+<span>kennedy</span>yo 
+<span>fuck is pwn3d</span>
+<span>fuck</span>what yo 
+<span>fuck</span>(finger )
+<span>fuck</span>bye 
+<span>fuck</span>it cool app 
+<span>fuck is about to sign off</span>
+<span>fuck</span>esta tuani la aplicacion 
+<span>fuck</span>me gusta solo estaba proabando no sabia que poner 
+<span>fuck</span>adios 
+<span>fuck</span>cya
+<span>fuck</span>como puta me des logueo 
+<span>fuck</span>hasta luego
+<span>Pieter</span>oh hai! 
+<span>john</span>hi there 
+<span>fuck</span>fail a not see log out 
+<span>fuck</span>seems to be not implemented yet
+<span>fuck</span>ok 
+<span>john</span>hm 
+<span>john</span>strange conversations here 
+<span>jack</span>hi 
+<span>dude</span>dude 
+<span>pb</span>ya 
+<span>atxx</span>hallo 
+<span>bob</span>Today on when animals attack ...  
+<span>daniel</span>testes 
+<span>wickedpro</span>Testing 
+<span>wickedpro</span>Seems to work pretty smooth for me 
+<span>Xiris</span>Hello 
+<span>wow</span>hm... 
+<span>test</span>hi 
+<span>tyunb</span>testies testies...1...2...3? 
+<span>valleyman</span>yo, testing 123! 
+<span>Julien</span>test 
+<span>test</span>test 
+<span>test</span>hallo 
+<span>Duenorth</span>yayhooray 
+<span>arn</span>hello 
+<span>bmn,</span>bnmbvm, 
+<span>bmn,</span>b nbmn 
+<span>bmn,</span>poop 
+<span>johnnypea</span>  
+<span>johnnypea</span>hmmm I can send empty message when I insert the space  
+<span>teomos</span>hi 
+<span>axeeffect</span>wag 
+<span>Bun</span>helo 
+<span>sss</span>  
+<span>sss</span>aaaaaaaaaaaaa 
+<span>sss</span>adawdawd 
+<span>sss</span>@Bun  
+<span>sss</span>aawd 
+<span>sss</span>
+<span>Fox</span>Badabuuummm. <img src='smiles/smile.gif'/> 
+<span>matt</span>pretty cool 
+<span>bbj</span>yo 
+<span>bbj</span>sup?? 
+<span>asdf</span>super!! <img src='smiles/smile.gif'/> 
+<span>jack</span>test 
+<span>joe</span>hm 
+<span>gert</span>test 
+<span>gert</span><img src='smiles/smile.gif'/> 
+<span>gert</span><img src='smiles/bigsmile.png'/> 
+<span>Ding</span>blong 
+<span>user</span><a href="http://css-tricks.com" target="_blank">http://css-tricks.com</a> 
+<span>user</span><a href="http://css-tricks.com/%22%20onclick%3D%27javascript%3Aalert%28%22xss%22%29%3B%27" target="_blank">http://css-tricks.com/%22%20onclick%3D%27javascript%3Aalert%28%22xss%22%29%3B%27</a> 
+<span>xhr</span>hi 

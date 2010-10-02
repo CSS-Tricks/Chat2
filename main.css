@@ -1,0 +1,51 @@
+* { margin: 0; padding: 0; }
+body { font: 14px/1.4 Georgia, Serif; background: url(images/bg.jpg); color: white; }
+
+#page-wrap { margin: 0 auto; width: 600px; position: relative; }
+
+#header h1 a { display: block; width: 173px; height: 79px; background: url(images/logo.jpg) no-repeat; text-indent: -9999px; }
+
+h1,h2,h3 { margin: 0 0 20px 0; font-weight: normal; }
+h1 { font-size: 36px; }
+h2 { font-size: 30px }
+h3 { font-size: 24px }
+a:focus { outline: 0; }
+
+.message { margin: 15px 0; padding: 10px; -moz-border-radius: 20px; -webkit-border-radius: 20px; font-size: 15px; }
+.warning { background: #ffd5d5; border: 3px solid #ff3939; color: #ff3939; }
+.success { background: #e5ffdb; border: 3px solid #0dba32; color: #0dba32; }
+
+label { font-size: 20px; } 
+
+#section { background: rgba(0,0,0,0.2); padding: 20px; }
+#userid { font-size: 20px; padding:8px 10px; width: 330px; }
+
+#you { position: absolute; top: 45px; right: 0; font-size: 20px; background: rgba(0,0,0,0.2); padding: 5px 10px; }
+#you span { font: italic 12px Georgia, Serif; }
+
+#rooms {  }
+#rooms ul { list-style: none; }
+#rooms ul li { margin: 0 0 5px 0; }
+#rooms li a { background: rgba(0,0,0,0.2); padding: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; display: block; position: relative; }
+#rooms li a:hover { background: none; -moz-box-shadow: 0 0 5px black; -webkit-box-shadow: 0 0 5px black; }
+#rooms li a span { position: absolute; top: 3px; right: 10px; }
+#rooms li a span strong { color: white; font-size: 20px; }
+#rooms a { text-decoration: none; color: #4fb90f; font: 18px;}
+
+#chat-wrap { border: 1px solid #eee; width: 380px; float:left; }
+#chat-area { height: 300px; overflow: auto; padding: 20px; background: white; }
+#chat-area span { color: white; background: #333; padding: 4px 8px; -moz-border-radius: 5px; -webkit-border-radius: 8px; margin: 0 5px 0 0; }
+#chat-area p { padding: 8px 0; border-bottom: 1px solid #ccc; color: #333; }
+
+#name-area { top: 12px; right: 0; color: white; font: bold 12px "Lucida Grande", Sans-Serif; text-align: right; }   
+#name-area span { color: #fa9f00; }
+
+#send-message-area p { float: left; color: white; padding-top: 27px; font-size: 14px; }
+
+#sendie { width: 360px; padding: 10px; margin: 5px 0 0 0; font: 12px "Lucida Grande", Sans-Serif; }
+
+#userlist { float: right; width: 160px; height: 410px; overflow-y: scroll; }
+#userlist ul { color: #fff; font-size: 18px; list-style: none; }
+#userlist ul li { }
+#userlist ul li.head { border-bottom: 1px solid #eee; }
+
